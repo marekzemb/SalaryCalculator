@@ -1,4 +1,4 @@
-Annotation based ReST web aplication. 
+Annotation based ReST web application. 
 
 Technologies used: Spring Boot, JOOQ, MySQL, Maven. 
 
